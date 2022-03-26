@@ -3,7 +3,7 @@
 ## Project Title
 
 <br />
-  <h1 align="center"><a target="_blank" href="https://grand-hotteok-376707.netlify.app/">Course Web</a></h1>
+  Link: <h1 align="center"><a target="_blank" href="https://grand-hotteok-376707.netlify.app/">Course Web</a></h1>
 
   <!-- Languages and Technologies -->
 
@@ -16,13 +16,3 @@
 - [Node Packe Manager (NPM)](#npm)
 - [Yarn](#yarn)
 - [Git and GitHub](#git)
-
-## Project Details
-
-- [Scientist cards are shown in three column](#threeColumn)
-- [Details of each scientist has been shown in the card](#cardDetails)
-- [Event handler in buttons](#eventHandler)
-- [Summation of total price on button click](#summation)
-- [Showing member name and images when price is added in card](#member-details)
-- [Font awesome icon is used in button using external package](#font-awesome)
-- [Social media icon using external packages](#font-awesome)
