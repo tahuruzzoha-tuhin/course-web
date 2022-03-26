@@ -6,7 +6,7 @@ const Footer = () => {
             <div className='container mb-5'>
                 {/* <h4></h4> */}
                 <br /><br />
-                <h4 className='justify-content-center'>Answer</h4>
+                <h4 className=''>Answer</h4>
                 <br />
                 <p>1.React is mainly used for single-page applications.
                     React mainly creates virtual DOM in the browser and allows us to effectively re-construct our DOM in JavaScript and push only those changes to the DOM which have actually occurred. By manipulating the DOM react process all the logic very faster. Each piece of reacts code performs in components and the component which is tasked for that specific update needs to be called and dynamically built the UI.</p>
