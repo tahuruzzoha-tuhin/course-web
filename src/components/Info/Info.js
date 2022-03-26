@@ -18,6 +18,8 @@ const Info = () => {
 
         if (newCart.length <= 4) {
             setCart(newCart);
+        } else {
+            window.alert("do not enter more than 4")
         }
     }
     const removeButton = () => {
