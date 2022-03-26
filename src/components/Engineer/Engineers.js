@@ -13,6 +13,7 @@ const Engineers = (props) => {
             <div className="engineer">
                 <img className="image img-fluid rounded" src={image} alt="" />
                 <h4>{name}</h4>
+
                 <h5>Author:{author}</h5>
                 <h5>Enrolled:{enrolled}</h5>
                 <h5>Price:${price}</h5>
